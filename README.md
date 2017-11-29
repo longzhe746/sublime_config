@@ -5,7 +5,7 @@
 	[ <br/>
 	], <br/>
 	"installed_packages":<br/>
-	[ <br/>
+>>>[ <br/>
 		"AdvancedNewFile", <br/>
 		"Djaneiro", <br/>
 		"Emmet", <br/>
